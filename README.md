@@ -1,5 +1,6 @@
 
-< img width="150" alt="photo"  align="right" alt="30a430fed2da2c933e8f151e1966951" src="https://github.com/user-attachments/assets/85b122fe-dba8-4aa0-af26-9921d01231eb" />
+<img width="826" height="1181" alt="30a430fed2da2c933e8f151e1966951" src="https://github.com/user-attachments/assets/043e2b67-caa0-48ba-8198-eaf6d2b91605" />
+
 
 # Basic Information
 * Name:RUI MIJIA
